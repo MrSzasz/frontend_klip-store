@@ -5,7 +5,6 @@
 @layer base {
   :root {
     --background: 0 0% 100%;
-    /* --background: 124 100% 95%; */
     --foreground: 124 5% 0%;
     --card: 124 50% 90%;
     --card-foreground: 124 5% 10%;
@@ -26,28 +25,6 @@
     --ring: 124 58% 40%;
     --radius: 0.75rem;
   }
-  /* .dark {
-    --background: 124 50% 5%;
-    --foreground: 124 5% 90%;
-    --card: 124 50% 0%;
-    --card-foreground: 124 5% 90%;
-    --popover: 124 50% 5%;
-    --popover-foreground: 124 5% 90%;
-    --primary: 124 58% 40%;
-    --primary-foreground: 0 0% 100%;
-    --secondary: 124 30% 10%;
-    --secondary-foreground: 0 0% 100%;
-    --muted: 86 30% 15%;
-    --muted-foreground: 124 5% 60%;
-    --accent: 86 30% 15%;
-    --accent-foreground: 124 5% 90%;
-    --destructive: 0 100% 30%;
-    --destructive-foreground: 124 5% 90%;
-    --border: 124 30% 18%;
-    --input: 124 30% 18%;
-    --ring: 124 58% 40%;
-    --radius: 0.75rem;
-} */
 }
 
 @layer base {
@@ -62,7 +39,3 @@
 :root {
   --navbar-height: 75px;
 }
-
-/* main {
-  margin-top: var(--navbar-height);
-} */
