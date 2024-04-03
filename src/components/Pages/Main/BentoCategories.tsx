@@ -35,17 +35,17 @@ const BentoCategories = (): React.ReactElement => {
     {
       title: 'Jewelry',
       image: '/bento/jewelry.webp',
-      url: '/products?category=jewelry',
+      url: '/products?category=jewelery',
     },
     {
       title: 'Men Clothing',
       image: '/bento/men-clothing.webp',
-      url: '/products?category=men-clothing',
+      url: "products?category=men's clothing",
     },
     {
       title: 'Women Clothing',
       image: '/bento/women-clothing.webp',
-      url: '/products?category=women-clothing',
+      url: "/products?category=women's clothing",
     },
     {
       title: 'All',
